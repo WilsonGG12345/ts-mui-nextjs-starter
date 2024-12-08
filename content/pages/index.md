@@ -30,7 +30,7 @@ sections:
       url: /images/WG Logo.png
       altText: WG Logo
   - type: CardsSection
-    title: Cards Section Component
+    title: Our specialties
     subtitle: Section subtitle here
     items:
       - type: Card
