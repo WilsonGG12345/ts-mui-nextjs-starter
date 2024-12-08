@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: WG Consultancy
-    subtitle: Making the Supply Feasible
+    subtitle: Making the Supply Chain feasible
     text: >+
       At WG Supply Chain Consulting, we are experts in optimizing the
       agribusiness supply chain, both in Brazil and in the international market.
