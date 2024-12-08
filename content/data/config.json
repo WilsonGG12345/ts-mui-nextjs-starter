@@ -12,13 +12,13 @@
             },
             {
                 "type": "Link",
-                "label": "About",
+                "label": "Documentation",
                 "url": "",
                 "underline": "hover"
             },
             {
                 "type": "Link",
-                "label": "Documentation",
+                "label": "About",
                 "url": "",
                 "underline": "hover"
             }
