@@ -5,10 +5,13 @@ sections:
   - type: HeroSection
     title: WG Consultancy
     subtitle: Making the Supply Feasible
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+    text: >+
+      At WG Supply Chain Consulting, we are experts in optimizing the
+      agribusiness supply chain, both in Brazil and in the international market.
+      With years of experience and a team of highly qualified professionals, we
+      offer customized solutions that guarantee efficiency, cost reduction and
+      increased productivity.
+
     actions:
       - type: Button
         label: Start Building
