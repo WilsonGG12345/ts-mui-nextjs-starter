@@ -179,7 +179,7 @@ sections:
             label: Read the Docs
             url: ''
       - type: Card
-        title: Third Card Title
+        title: The resource optimization at Supply Chain
         image:
           type: Image
           url: /images/ts.svg
