@@ -91,7 +91,7 @@ sections:
         title: The training in Supply Chain
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/Treinamento em Supply Chain.png
           altText: Second item image
         text: >
           Supply Chain training is essential to ensure the efficiency and
