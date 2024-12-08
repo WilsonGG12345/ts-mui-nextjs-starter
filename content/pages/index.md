@@ -31,7 +31,7 @@ sections:
       altText: WG Logo
   - type: CardsSection
     title: Our specialties
-    subtitle: Section subtitle here
+    subtitle: Talk to us meeting@wgscmconsultancy.com or +55 16 9 9601 0344
     items:
       - type: Card
         title: Process Mapping
