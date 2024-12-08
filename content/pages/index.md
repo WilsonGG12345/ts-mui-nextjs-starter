@@ -182,7 +182,7 @@ sections:
         title: The resource optimization at Supply Chain
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/otimização de processo em supply chain.png
           altText: Third item image
         text: >
           Resource optimization at Supply Chain is vital to ensure operational
