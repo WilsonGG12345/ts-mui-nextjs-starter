@@ -24,7 +24,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/WG SITE Imagem 01.jpg
+      url: /images/WG Logo.png
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
