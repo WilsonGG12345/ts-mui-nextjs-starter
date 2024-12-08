@@ -28,7 +28,7 @@ sections:
     image:
       type: Image
       url: /images/WG Logo.png
-      altText: Hero section image
+      altText: WG Logo
   - type: CardsSection
     title: Cards Section Component
     subtitle: Section subtitle here
