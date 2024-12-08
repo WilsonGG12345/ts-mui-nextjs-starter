@@ -185,10 +185,84 @@ sections:
           url: /images/ts.svg
           altText: Third item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Resource optimization at Supply Chain is vital to ensure operational
+          efficiency, reduce costs and increase a company's competitiveness.
+          Here are some points that highlight the importance of this process:
+
+
+          Cost reduction:
+
+
+          Resource optimization allows the elimination of waste and the most
+          efficient use of materials, time and labor.
+
+
+          Strategies such as Just-in-Time (JIT) and Lean Manufacturing help
+          maintain inventory at minimum levels required, reducing storage and
+          obsolescence costs.
+
+
+          Improvement of operational efficiency:
+
+
+          Optimized processes increase productivity, allowing the company to
+          respond more quickly to market demands.
+
+
+          Efficient use of resources reduces cycle time and improves the quality
+          of products and services offered.
+
+
+          Sustainability:
+
+
+          Resource optimization promotes more sustainable practices, such as
+          reducing energy consumption and minimization of waste.
+
+
+          Companies that adopt sustainable practices gain a competitive
+          advantage and strengthen their reputation with consumers.
+
+
+          Improved customer satisfaction:
+
+
+          With well -managed resources, the company can offer high quality
+          products at competitive prices, increasing customer satisfaction and
+          loyalty.
+
+
+          The ability to quickly meet market demands contributes to a better
+          level of service.
+
+
+          Flexibility and innovation:
+
+
+          Resource optimization allows the company to be more agile and
+          adaptable to market changes.
+
+
+          Optimized resources release capital and investment capacity in
+          innovation and continuous improvement.
+
+
+          Risk Reduction:
+
+
+          An optimized supply chain is more resilient to interruptions and
+          variations in demand.
+
+
+          Efficient management of resources contributes to business continuity,
+          even in adverse situations.
+
+
+          In summary, resource optimization at Supply Chain is essential to
+          maximize efficiency, reducing costs, promoting sustainability and
+          improving customer satisfaction. Investing in optimization practices
+          is a strategic differential that can lead to significant gains for the
+          company.
         actions:
           - type: Button
             label: Read the Docs
