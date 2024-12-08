@@ -88,7 +88,7 @@ sections:
             label: Read the Docs
             url: ''
       - type: Card
-        title: Second Card Title
+        title: The training in Supply Chain
         image:
           type: Image
           url: /images/mui-5.svg
