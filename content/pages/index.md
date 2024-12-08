@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: WG Consultancy
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: Making the Supply Feasible
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
