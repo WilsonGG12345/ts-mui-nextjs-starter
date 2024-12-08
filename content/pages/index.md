@@ -34,7 +34,7 @@ sections:
     subtitle: Section subtitle here
     items:
       - type: Card
-        title: First Card Title
+        title: Process Mapping
         image:
           type: Image
           url: /images/IMAGEM DE MAPEAMENTO DE PROCESSO.png
