@@ -24,7 +24,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/time de supply chain em reunião.png
+      url: /images/WG SITE Imagem 01.jpg
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
