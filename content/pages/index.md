@@ -2,42 +2,6 @@
 title: Home
 type: Page
 sections:
-  - type: CardsSection
-    title: ''
-    subtitle: The section subtitle
-    items:
-      - type: Card
-        title: Second Item Title
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
-        image:
-          type: Image
-          altText: Second item image
-        actions:
-          - type: Button
-            label: Learn more
-            url: /
-            size: medium
-            variant: text
-            color: primary
-      - type: Card
-        title: Third Item Title
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
-        image:
-          type: Image
-          altText: Third item image
-        actions:
-          - type: Button
-            label: Learn more
-            url: /
-            size: medium
-            variant: text
-            color: primary
   - type: HeroSection
     title: ''
     subtitle: Making the Supply Chain feasible
