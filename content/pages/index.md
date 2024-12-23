@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: WG Consultancy
+    title: ''
     subtitle: Making the Supply Chain feasible
     text: >
       At WG Supply Chain Consulting, we are experts in optimizing the Supply
