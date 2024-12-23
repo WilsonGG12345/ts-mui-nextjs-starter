@@ -6,8 +6,6 @@ sections:
     title: WG Consultancy
     subtitle: Making the Supply Chain feasible
     text: >
-      ![](/images/WG_Logo_JPG.jpg)
-
       At WG Supply Chain Consulting, we are experts in optimizing the Supply
       Cchain, for Brazil and in the international market. With years of
       experience and a team of highly qualified professionals, we offer
