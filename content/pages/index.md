@@ -6,10 +6,12 @@ sections:
     title: WG Consultancy
     subtitle: Making the Supply Chain feasible
     text: >
-      At WG Supply Chain Consulting, we are experts in optimizing the
-      agribusiness supply chain, both in Brazil and in the international market.
-      With years of experience and a team of highly qualified professionals, we
-      offer customized solutions that guarantee efficiency, cost reduction and
+      ![](/images/WG_Logo_JPG.jpg)
+
+      At WG Supply Chain Consulting, we are experts in optimizing the Supply
+      Cchain, for Brazil and in the international market. With years of
+      experience and a team of highly qualified professionals, we offer
+      customized solutions that guarantee efficiency, cost reduction and
       increased productivity.
 
 
