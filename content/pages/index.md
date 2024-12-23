@@ -25,7 +25,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/WG_Logo_JPG.jpg
       altText: Hero section image
   - type: HeroSection
     title: ''
