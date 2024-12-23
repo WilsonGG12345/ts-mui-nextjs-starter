@@ -6,31 +6,23 @@ sections:
     title: How can we help you today?
     subtitle: Making the Supply Chain feasible
     text: >
-      At WG Supply Chain Consultancy, we are experts in optimizing the Supply
-      Cchain, for Brazil and in the international market. With years of
-      experience and a team of highly qualified professionals, we offer
-      customized solutions that guarantee efficiency, cost reduction and
-      increased productivity.
-
-
-      Senior Consultants in Supply Chain, Logistics, Industrial Operations, Food
-      & Beverage, Digital Technology and Process Optimization
-
-
-      With over 30 years of experience as a Supply Chain Manager with extensive
-      expertise in supply chain management, industrial operations and digital
-      technology, in several continents, including the United States, Europe,
-      South America and Asia.
-
+      We from WG SCM Consultancy are experts in processes and resources
+      optimization, with years of experience and a team of highly qualified
+      professionals, we offer customized solutions that guarantee efficiency,
+      cost reduction and increased productivity.Senior Consultants in Supply
+      Chain, Logistics, Industrial Operations, Food & Beverage, Digital
+      Technology and Process Optimization, with over 30 years of experience as a
+      Supply Chain Manager with extensive expertise in supply chain management,
+      industrial operations and digital technology, in several continents,
+      including the United States, Europe, South America and Asia.
 
       We have worked with leading beverage and agribusiness companies, managing
       products such as cotton, soybeans, sugarcane and, since the 1990s, orange
       juice and apple juice.
 
-
-      We help you  optimize processes through redesign and implementation of
-      advanced technologies, aiming to maximize economic results and improve the
-      sustainable use of the planet's natural resources.
+      We can help you to optimize processes through redesign and implementation
+      of advanced technologies, aiming to maximize economic results and improve
+      the sustainable use of the planet's natural resources.
     actions:
       - type: Button
         label: Start Building
