@@ -5,8 +5,8 @@ sections:
   - type: HeroSection
     title: WG SCM Consultancy
     subtitle: Making the Supply Chain feasible
-    text: >+
-      At WG Supply Chain Consulting, we are experts in optimizing the Supply
+    text: >
+      At WG Supply Chain Consultancy, we are experts in optimizing the Supply
       Cchain, for Brazil and in the international market. With years of
       experience and a team of highly qualified professionals, we offer
       customized solutions that guarantee efficiency, cost reduction and
@@ -31,9 +31,6 @@ sections:
       We help you  optimize processes through redesign and implementation of
       advanced technologies, aiming to maximize economic results and improve the
       sustainable use of the planet's natural resources.
-
-
-
     actions:
       - type: Button
         label: Start Building
