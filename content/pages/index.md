@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: How can we help you today?
-    subtitle: Making the Supply Chain feasible
+    subtitle: Enhancing Your Supply Chain Efficiency
     text: >
       At WG SCM Consultancy, we excel in process and resource optimization. With
       years of experience and a team of highly qualified professionals, we offer
