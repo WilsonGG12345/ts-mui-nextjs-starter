@@ -118,7 +118,7 @@ sections:
           type: Image
           url: /images/Treinamento em Supply Chain.png
           altText: Second item image
-        text: >+
+        text: >
           **The Importance of Supply Chain Training**
 
 
@@ -204,8 +204,7 @@ sections:
           sustainability.
 
 
-          Talk to us meeting\@wgscmconsultancy.com
-
+          Reach Out to Us via Email - <meeting@wgscmconsultancy.com>
         actions:
           - type: Button
             label: Read the Docs
