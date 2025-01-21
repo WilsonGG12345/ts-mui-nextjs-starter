@@ -49,50 +49,57 @@ sections:
           type: Image
           url: /images/IMAGEM DE MAPEAMENTO DE PROCESSO.png
           altText: First item image
-        text: >
-          Process mapping is a technique used to view and understand all the
-          steps involved in a business process, from the beginning to the end.
-          It helps identify inefficiencies, bottlenecks and opportunities for
+        text: >+
+          **Process Mapping**
+
+
+          Process mapping is a technique used to visualize and understand all
+          the steps involved in a business process, from start to finish. It
+          helps identify inefficiencies, bottlenecks, and opportunities for
           improvement.
 
 
-          Process mapping benefits:
+          **Benefits of Process Mapping:**
 
 
-          Clarity: provides a clear view of how the process really works.
+          *   **Clarity:** Provides a clear view of how the process actually
+          works.
 
 
-          Identification of inefficiencies: highlights areas where resources may
-          be wasted.
+          *   **Identification of Inefficiencies:** Highlights areas where
+          resources may be wasted.
 
 
-          Continuous improvement: Facilitates the identification of improvements
-          to increase efficiency and quality.
+          *   **Continuous Improvement:** Facilitates the identification of
+          enhancements to increase efficiency and quality.
 
 
-          Alignment: ensures that all team members understand the process and
-          their responsibilities.
+          *   **Alignment:** Ensures that all team members understand the
+          process and their responsibilities.
 
 
-          Documentation: Creates valuable documentation that can be used for
-          training and standardization.
+          *   **Documentation:** Creates valuable documentation that can be used
+          for training and standardization.
 
 
-          Common tools:
+          **Common Tools:**
 
 
-          FlowGrams: Diagrams that show the sequence of steps.
+          *   **Flowcharts:** Diagrams that show the sequence of steps.
 
 
-          Value chain maps: focus on delivering customer value.
+          *   **Value Chain Maps:** Focus on delivering customer value.
 
 
-          Sipoc Diagrams: identify suppliers, entries, process, outputs and
-          customers.
+          *   **SIPOC Diagrams:** Identify suppliers, inputs, processes,
+          outputs, and customers.
 
 
-          In short, process mapping is a vital tool for any organization that
-          seeks to optimize their operations and continually improve.
+          In short, process mapping is an essential tool for any organization
+          seeking to optimize its operations and continuously improve.
+
+
+
         actions:
           - type: Button
             label: Read the Docs
