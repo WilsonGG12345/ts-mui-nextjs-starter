@@ -6,23 +6,22 @@ sections:
     title: How can we help you today?
     subtitle: Making the Supply Chain feasible
     text: >
-      We from WG SCM Consultancy are experts in processes and resources
-      optimization, with years of experience and a team of highly qualified
-      professionals, we offer customized solutions that guarantee efficiency,
-      cost reduction and increased productivity.Senior Consultants in Supply
-      Chain, Logistics, Industrial Operations, Food & Beverage, Digital
-      Technology and Process Optimization, with over 30 years of experience as a
-      Supply Chain Manager with extensive expertise in supply chain management,
-      industrial operations and digital technology, in several continents,
-      including the United States, Europe, South America and Asia.
+      At WG SCM Consultancy, we excel in process and resource optimization. With
+      years of experience and a team of highly qualified professionals, we offer
+      customized solutions that ensure efficiency, cost reduction, and increased
+      productivity. Our senior consultants have over 30 years of expertise in
+      Supply Chain, Logistics, Industrial Operations, Food & Beverage, Digital
+      Technology, and Process Optimization. Our extensive experience as Supply
+      Chain Managers spans across multiple continents, including the United
+      States, Europe, South America, and Asia.
 
-      We have worked with leading beverage and agribusiness companies, managing
-      products such as cotton, soybeans, sugarcane and, since the 1990s, orange
-      juice and apple juice.
 
-      We can help you to optimize processes through redesign and implementation
-      of advanced technologies, aiming to maximize economic results and improve
-      the sustainable use of the planet's natural resources.
+      We have collaborated with leading beverage and agribusiness companies,
+      managing products such as cotton, soybeans, sugarcane, and, since the
+      1990s, orange juice and apple juice. Our goal is to help you optimize
+      processes through the redesign and implementation of advanced
+      technologies, maximizing economic results and promoting the sustainable
+      use of the planet's natural resources.
     actions:
       - type: Button
         label: Start Building
