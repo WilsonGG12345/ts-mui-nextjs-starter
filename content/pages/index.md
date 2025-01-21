@@ -24,7 +24,14 @@ sections:
       use of the planet's natural resources.
 
 
-      Talk to us meeting\@wgscmconsultancy.com
+      Talk to us <meeting@wgscmconsultancy.com>
+
+
+      www\.linkedin.com/in/
+
+      Mobile Phone +55 16 9 9601 0344
+
+
 
     actions:
       - type: Button
