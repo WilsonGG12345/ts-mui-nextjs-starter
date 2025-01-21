@@ -57,7 +57,7 @@ sections:
           type: Image
           url: /images/IMAGEM DE MAPEAMENTO DE PROCESSO.png
           altText: First item image
-        text: >+
+        text: >
           **Process Mapping**
 
 
@@ -107,8 +107,7 @@ sections:
           seeking to optimize its operations and continuously improve.
 
 
-          Talk to us meeting\@wgscmconsultancy.com
-
+          Reach Out to Us via Email - <meeting@wgscmconsultancy.com>
         actions:
           - type: Button
             label: Read the Docs
