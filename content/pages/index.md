@@ -215,7 +215,7 @@ sections:
           type: Image
           url: /images/otimização de processo em supply chain.png
           altText: Third item image
-        text: >+
+        text: >
           Resource optimization at Supply Chain is vital to ensure operational
           efficiency, reduce costs and increase a company's competitiveness.
           Here are some points that highlight the importance of this process:
@@ -335,8 +335,7 @@ sections:
           company.
 
 
-          Talk to us meeting\@wgscmconsultancy.com
-
+          Reach Out to Us via Email - <meeting@wgscmconsultancy.com>
         actions:
           - type: Button
             label: Read the Docs
