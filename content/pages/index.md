@@ -202,7 +202,7 @@ sections:
             label: Read the Docs
             url: ''
       - type: Card
-        title: The resource optimization at Supply Chain
+        title: Resource Optimization in Supply Chain
         image:
           type: Image
           url: /images/otimização de processo em supply chain.png
