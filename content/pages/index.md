@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     title: How can we help you today?
     subtitle: Enhancing Your Supply Chain Efficiency
-    text: >+
+    text: >
       At WG SCM Consultancy, we excel in process and resource optimization. With
       years of experience and a team of highly qualified professionals, we offer
       customized solutions that ensure efficiency, cost reduction, and increased
@@ -24,15 +24,12 @@ sections:
       use of the planet's natural resources.
 
 
-      Talk to us <meeting@wgscmconsultancy.com>
+      Reach Out to Us via email - <meeting@wgscmconsultancy.com>
 
 
-      www\.linkedin.com/in/
+      [www.linkedin.com/in/](http://www.linkedin.com/in/)
 
       Mobile Phone +55 16 9 9601 0344
-
-
-
     actions:
       - type: Button
         label: Start Building
