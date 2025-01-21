@@ -110,87 +110,93 @@ sections:
           type: Image
           url: /images/Treinamento em Supply Chain.png
           altText: Second item image
-        text: >
+        text: >+
+          **The Importance of Supply Chain Training**
+
+
           Supply Chain training is essential to ensure the efficiency and
-          competitiveness of a company's operations. A well -managed supply
-          chain can make a difference between success and failure in the market.
-          Here are some points that highlight the importance of training in this
-          area:
+          competitiveness of a company's operations. A well-managed supply chain
+          can make the difference between success and failure in the market.
+          Here are some key points that highlight the importance of training in
+          this area:
 
 
-          Improvement of operational efficiency:
+          **Improvement of Operational Efficiency:**
 
 
-          Proper training enables employees to perform their tasks more
+          *   Proper training enables employees to perform their tasks more
           efficiently, reducing waste and improving productivity.
 
 
-          Well -trained teams can quickly identify and solve problems by
-          minimizing operations interruptions.
+          *   Well-trained teams can quickly identify and solve problems,
+          minimizing interruptions in operations.
 
 
-          Improvement of Technical Skills:
+          **Enhancement of Technical Skills:**
 
 
-          Continuous training allows professionals to keep up to date with
+          *   Continuous training allows professionals to stay up-to-date with
           emerging best practices and technologies in the supply chain field.
 
 
-          Specific training, such as the use of inventory management systems
-          (ERP) and data analysis tools, are fundamental to optimizing
-          processes.
+          *   Specific training, such as the use of inventory management systems
+          (ERP) and data analysis tools, is fundamental to optimizing processes.
 
 
-          Cost reduction:
+          **Cost Reduction:**
 
 
-          Efficient Supply Chain management, resulting from good training, can
-          lead to significant reduction in operating costs.
+          *   Efficient Supply Chain management, resulting from good training,
+          can lead to significant reductions in operating costs.
 
 
-          Techniques such as Just-in-Time (JIT) and Lean Manufacturing, when
-          well applied, help minimize inventories and optimize resources.
+          *   Techniques such as Just-in-Time (JIT) and Lean Manufacturing, when
+          well-applied, help minimize inventories and optimize resources.
 
 
-          Increased customer satisfaction:
+          **Increased Customer Satisfaction:**
 
 
-          Training focused on customer relationship management and suppliers
-          improve communication and collaboration, resulting in a more
-          responsive supply chain.
+          *   Training focused on customer relationship management and supplier
+          communication improves collaboration, resulting in a more responsive
+          supply chain.
 
 
-          Meeting delivery times and maintaining a high level of quality in
+          *   Meeting delivery times and maintaining high-quality standards in
           products and services increases customer confidence and satisfaction.
 
 
-          Innovation and continuous improvement:
+          **Innovation and Continuous Improvement:**
 
 
-          A continuous learning environment encourages innovation, allowing
+          *   A continuous learning environment encourages innovation, allowing
           companies to quickly adapt to market changes.
 
 
-          Employees are encouraged to propose improvements and new ideas,
+          *   Employees are encouraged to propose improvements and new ideas,
           fostering a culture of continuous improvement.
 
 
-          Compliance and sustainability:
+          **Compliance and Sustainability:**
 
 
-          Regulatory compliance training ensures that the company operates
-          within current rules and laws, avoiding penalties and damage to the
-          reputation.
+          *   Regulatory compliance training ensures that the company operates
+          within current rules and laws, avoiding penalties and reputational
+          damage.
 
 
-          Sustainable Practices in Supply Chain, promoted through training,
-          contribute to the company's social and environmental responsibility.
+          *   Sustainable practices in the supply chain, promoted through
+          training, contribute to the company's social and environmental
+          responsibility.
 
 
-          Investing in training in the supply chain field is therefore a
-          strategic differential that can lead to significant gains in
-          efficiency, cost reduction and customer satisfaction, and promote
-          innovation and sustainability.
+          Investing in Supply Chain training is therefore a strategic advantage
+          that can lead to significant gains in efficiency, cost reduction, and
+          customer satisfaction, while also promoting innovation and
+          sustainability.
+
+
+
         actions:
           - type: Button
             label: Read the Docs
