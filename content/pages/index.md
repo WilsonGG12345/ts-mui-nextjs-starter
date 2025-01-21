@@ -207,7 +207,7 @@ sections:
           type: Image
           url: /images/otimização de processo em supply chain.png
           altText: Third item image
-        text: >
+        text: >+
           Resource optimization at Supply Chain is vital to ensure operational
           efficiency, reduce costs and increase a company's competitiveness.
           Here are some points that highlight the importance of this process:
@@ -243,49 +243,91 @@ sections:
           reducing energy consumption and minimization of waste.
 
 
-          Companies that adopt sustainable practices gain a competitive
+          **Resource Optimization in Supply Chain**
+
+
+          Resource optimization in Supply Chain is vital to ensuring operational
+          efficiency, reducing costs, and increasing a company's
+          competitiveness. Here are some points that highlight the importance of
+          this process:
+
+
+          **Cost Reduction:**
+
+
+          *   Resource optimization eliminates waste and promotes the most
+          efficient use of materials, time, and labor.
+
+
+          *   Strategies such as Just-in-Time (JIT) and Lean Manufacturing help
+          maintain inventory at minimum required levels, reducing storage and
+          obsolescence costs.
+
+
+          **Improvement of Operational Efficiency:**
+
+
+          *   Optimized processes increase productivity, allowing the company to
+          respond more quickly to market demands.
+
+
+          *   Efficient use of resources reduces cycle time and improves the
+          quality of products and services offered.
+
+
+          **Sustainability:**
+
+
+          *   Resource optimization promotes more sustainable practices, such as
+          reducing energy consumption and minimizing waste.
+
+
+          *   Companies that adopt sustainable practices gain a competitive
           advantage and strengthen their reputation with consumers.
 
 
-          Improved customer satisfaction:
+          **Improved Customer Satisfaction:**
 
 
-          With well -managed resources, the company can offer high quality
+          *   With well-managed resources, the company can offer high-quality
           products at competitive prices, increasing customer satisfaction and
           loyalty.
 
 
-          The ability to quickly meet market demands contributes to a better
+          *   The ability to quickly meet market demands contributes to a higher
           level of service.
 
 
-          Flexibility and innovation:
+          **Flexibility and Innovation:**
 
 
-          Resource optimization allows the company to be more agile and
+          *   Resource optimization allows the company to be more agile and
           adaptable to market changes.
 
 
-          Optimized resources release capital and investment capacity in
-          innovation and continuous improvement.
+          *   Optimized resources free up capital for investment in innovation
+          and continuous improvement.
 
 
-          Risk Reduction:
+          **Risk Reduction:**
 
 
-          An optimized supply chain is more resilient to interruptions and
+          *   An optimized supply chain is more resilient to interruptions and
           variations in demand.
 
 
-          Efficient management of resources contributes to business continuity,
-          even in adverse situations.
+          *   Efficient management of resources contributes to business
+          continuity, even in adverse situations.
 
 
-          In summary, resource optimization at Supply Chain is essential to
-          maximize efficiency, reducing costs, promoting sustainability and
-          improving customer satisfaction. Investing in optimization practices
-          is a strategic differential that can lead to significant gains for the
+          In summary, resource optimization in Supply Chain is essential to
+          maximize efficiency, reduce costs, promote sustainability, and improve
+          customer satisfaction. Investing in optimization practices is a
+          strategic advantage that can lead to significant gains for the
           company.
+
+
+
         actions:
           - type: Button
             label: Read the Docs
