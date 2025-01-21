@@ -105,7 +105,7 @@ sections:
             label: Read the Docs
             url: ''
       - type: Card
-        title: The training in Supply Chain
+        title: Supply Chain Trainning
         image:
           type: Image
           url: /images/Treinamento em Supply Chain.png
