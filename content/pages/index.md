@@ -45,7 +45,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/WG_Logo_JPG.jpg
+      url: /images/WG_Logo_640_Novo.jpeg
       altText: Hero section image
   - type: CardsSection
     title: Our specialties
