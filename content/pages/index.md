@@ -216,41 +216,6 @@ sections:
           url: /images/otimização de processo em supply chain.png
           altText: Third item image
         text: >
-          Resource optimization at Supply Chain is vital to ensure operational
-          efficiency, reduce costs and increase a company's competitiveness.
-          Here are some points that highlight the importance of this process:
-
-
-          Cost reduction:
-
-
-          Resource optimization allows the elimination of waste and the most
-          efficient use of materials, time and labor.
-
-
-          Strategies such as Just-in-Time (JIT) and Lean Manufacturing help
-          maintain inventory at minimum levels required, reducing storage and
-          obsolescence costs.
-
-
-          Improvement of operational efficiency:
-
-
-          Optimized processes increase productivity, allowing the company to
-          respond more quickly to market demands.
-
-
-          Efficient use of resources reduces cycle time and improves the quality
-          of products and services offered.
-
-
-          Sustainability:
-
-
-          Resource optimization promotes more sustainable practices, such as
-          reducing energy consumption and minimization of waste.
-
-
           **Resource Optimization in Supply Chain**
 
 
